@@ -1,0 +1,26 @@
+{
+  "name": "pure-ds",
+  "version": "0.0.1",
+  "description": "Purely Functional Data Strutures",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablolmiranda/pure-ds.git"
+  },
+  "keywords": [
+    "purely",
+    "functional",
+    "data",
+    "structures",
+    "immutable"
+  ],
+  "author": "Pablo Lacerda de Miranda (pablolmiranda@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pablolmiranda/pure-ds/issues"
+  },
+  "homepage": "https://github.com/pablolmiranda/pure-ds#readme"
+}
